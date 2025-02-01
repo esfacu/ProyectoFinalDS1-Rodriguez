@@ -16,17 +16,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 
-📌 Cómo ejecutar el Notebook
-Clonar este repositorio
-
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
-
-
-Abrir el Notebook en Jupyter Notebook o Google Colab.
-Ejecutar las celdas en orden.
-
-📊 Modelos Evaluados
+## 📌 Modelos Evaluados
 Se probaron distintos modelos de Machine Learning para predecir la rotación de empleados (Attrition):
 
 Regresión Logística
@@ -35,7 +25,7 @@ Random Forest
 Gradient Boosting
 Además, se realizó un análisis de outliers y su impacto en los modelos.
 
-✒️ Autor
+##📌 Autor
 Facundo Rodriguez
 Curso: Data Science 1
 Comisión: 61750
@@ -46,19 +36,4 @@ Duración: 4/nov/2024 al 22/ene/2025
 Zona horaria: America/Montevideo
 Frecuencia de valoraciones: Semanal
 
-🚀 ¡Gracias por visitar este repositorio!
-Si tienes alguna sugerencia o mejora, no dudes en abrir un issue o un pull request.
-
-
-
-### ✅ **¿Qué hacer ahora?**
-1. **Guarda este contenido como `README.md`** en tu repo.  
-2. **Haz un commit y súbelo a GitHub**.  
-
-Con esto ya tendrás un README profesional para tu entrega. 🚀🔥
-
-
-
-
-
-
+##🚀 ¡Gracias por visitar este repositorio!
