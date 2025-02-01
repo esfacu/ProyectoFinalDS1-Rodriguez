@@ -18,11 +18,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 📌 Cómo ejecutar el Notebook
 Clonar este repositorio
-bash
-Copiar
-Editar
+
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
+
+
 Abrir el Notebook en Jupyter Notebook o Google Colab.
 Ejecutar las celdas en orden.
 
