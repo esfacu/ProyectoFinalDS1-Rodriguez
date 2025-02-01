@@ -39,5 +39,3 @@ Además, se realizó un análisis de *outliers* y su impacto en los modelos.
 ---  
 
 ## 🚀 ¡Gracias por visitar este repositorio!  
-Si te interesa el análisis de datos y el Machine Learning, ¡no dudes en explorar el código y aportar tus comentarios! 🎯
-
